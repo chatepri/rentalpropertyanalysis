@@ -33,7 +33,7 @@ This Excel-based project helps evaluate rental property profitability based on k
 ## 🖼️ Preview
 
 ### 📈 Cash Flow Over Time
-![Cash Flow](images/cashflow-chart.png)
+![Cash Flow](rentalpropertyanalysis/images/cashflow-chart.png)
 
 ---
 
