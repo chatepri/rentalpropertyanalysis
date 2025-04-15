@@ -40,7 +40,7 @@ Properties analyzed in this project were selected as potential rental investment
 ![Cash Flow](rentalpropertyanalysis/images/cashflow-chart.png)
 
 ### 📈 ROI by Properties
-![ROI](rentalproperyanalysis/images/roi_by_properties.png)
+![ROI](rentalpropertyanalysis/images/roi_by_properties.png)
 
 ---
 
@@ -49,11 +49,12 @@ Properties analyzed in this project were selected as potential rental investment
 - **Microsoft Excel** – Data modeling, formulas, pivot tables, and charts
 - **CSV** – Used for raw data import
 - **Public MLS Listings*** - Used websites like Zillow, Redfin, Homes to conduct market analysis
+- **Tableau** - Data Visualization
 
 ---
 
 ## 🙋‍♂️ About Me
 
-Created by [Patrick Chen]. I'm passionate about real estate analysis, finance, and building tools that help investors make smarter decisions.
+Created by [Patrick Chen]. I'm passionate about real estate analysis, business analytics, and building tools that help investors make smarter decisions.
 
 Feel free to connect on [LinkedIn](https://linkedin.com/in/patrick-chen3) or check out more of my projects!
