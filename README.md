@@ -16,7 +16,9 @@ Properties analyzed in this project were selected as potential rental investment
 
 | File | Description |
 |------|-------------|
-| `rental-property-model.xlsx` | Main Excel workbook with the full analysis |
+| `rental_property_analysis.xlsx` | Main Excel workbook with the full analysis |
+| `rental_property_summary.xlsx` | Excel workbook with the summary of properties |
+| `rental_property_visual.twb` | Data Visualization in Tableau |
 | `images/` | Screenshots of charts and dashboards |
 | `README.md` | Project documentation |
 
@@ -36,6 +38,9 @@ Properties analyzed in this project were selected as potential rental investment
 
 ### 📈 Cash Flow Over Time
 ![Cash Flow](rentalpropertyanalysis/images/cashflow-chart.png)
+
+### 📈 ROI by Properties
+![ROI](rentalproperyanalysis/images/roi_by_property.png)
 
 ---
 
