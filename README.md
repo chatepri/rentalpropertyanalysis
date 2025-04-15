@@ -8,6 +8,8 @@ A financial modeling project that analyzes rental property performance using Exc
 
 This Excel-based project helps evaluate rental property profitability based on key financial inputs such as rent, loan terms, expenses, and appreciation. The model provides monthly and annual cash flow projections, and generates investment metrics to support decision-making.
 
+Properties analyzed in this project were selected as potential rental investments, specifically focusing on multi-family homes in the Buffalo, NY region, priced between $200,000 and $250,000, with targeted returns in the 8–12% ROI range.
+
 ---
 
 ## 📂 Files Included
