@@ -39,6 +39,9 @@ Properties analyzed in this project were selected as potential rental investment
 ### 📈 Cash Flow Over Time
 ![Cash Flow](rentalpropertyanalysis/images/cashflow-chart.png)
 
+### 📈 ROI by Properties
+![ROI](rentalproperyanalysis/images/roi_by_property.png)
+
 ---
 
 ## 🛠 Tools Used
